@@ -7,7 +7,7 @@
 
 ### 🎓 Giới thiệu chung
 * **Họ và tên:** Đặng Phước Thịnh (Ashes)
-* **Chuyên ngành:** Khoa Học Dữ Liệu và Trí Tuệ Nhân Tạo (Data Science & AI) — Khóa 3
+* **Chuyên ngành:** Khoa Học Dữ Liệu và Trí Tuệ Nhân Tạo (Data Science & AI) 
 * **Đơn vị học tập:** [Trường Đại Học Giao Thông Vận Tải Thành Phố Hồ Chí Minh (UTH)](https://ut.edu.vn)
 * **Định hướng nghiên cứu:** Tập trung chuyên sâu vào phân tích dữ liệu lớn, ứng dụng các thuật toán Trí tuệ Nhân tạo (AI) và tối ưu hóa hiệu năng tính toán.
 
