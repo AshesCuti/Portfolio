@@ -22,7 +22,7 @@ Danh sách các công nghệ và ngôn ngữ lập trình Ashes đang sử dụn
 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-| ![Mojo](https://img.shields.io/badge/Mojo-FF4C00?style=flat&logo=mojo&logoColor=white) 
+| ![🔥Mojo](https://img.shields.io/badge/Mojo-FF4C00?style=flat&logo=mojo&logoColor=white) 
 
 ---
 
